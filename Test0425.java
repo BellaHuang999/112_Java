@@ -1,8 +1,6 @@
 package com.bella;
 
-import java.util.Scanner;
-
-public class Test0423 {
+public class Test0425 {
     public static void main(String[] args) {
         System.out.println("測試0423");
         System.out.println("測試0423-2");
@@ -11,6 +9,11 @@ public class Test0423 {
         System.out.println("helloWorld2133234");
         System.out.println("helloWorld214");
         System.out.println("helloWorld21asd4");
+        System.out.println("helloWorld21asd4");
+        System.out.println("helloWorld21asd4");
+        System.out.println("helloWorld21asd4");
+        System.out.println("helloWorld21asd4");
+
 
 
     }
